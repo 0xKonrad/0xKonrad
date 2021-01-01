@@ -15,7 +15,7 @@
       - ⚖️ Working for: "ᱰ".
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
-<p align="right"><img src="https://media.discordapp.net/attachments/794203525261033513/794591020281102346/3649cc35f88ca4223e6616daae2e9752.gif?width=432&height=243" /></a>
+<p align="right"><img src="https://media.discordapp.net/attachments/794203525261033513/794591020281102346/3649cc35f88ca4223e6616daae2e9752.gif?width=232&height=143" /></a>
 
 ##                                                                      *Se conecte comigo*
  
