@@ -14,8 +14,7 @@
       - 💻 Estudante de programação;
       - 🧪 Gôiania - GYN;
       - ⚖️ Working for: "ᱰ".
-<p align="center"> Se conecte comigo:
-</p>
+### Se conecte comigo:
 
 <p align="center">
 <a href="https://twitter.com/0xKonradRose" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033471149244436/desconhecido.png?width=342&height=342" alt="0xKonrad" height="50" width="50" /></a>
