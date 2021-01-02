@@ -2,11 +2,12 @@
 
 <p align="center"> Prazer, sou o Konrad, um estudante comum de programação.
 </p>
-
 <p align="center"> Estou sempre atrás de formas de aprimorar meu conhecimento.
   
 
-#                                                                    *Biografia*
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/794953526303916033/795015659171610624/Rjq8.gif?width=420&height=227"/>
+
+###                                                                    *Biografia*
 
       - 🍙 Luan;                          
       - 📚 14 anos;
@@ -23,7 +24,3 @@
 </p>
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/tj80gwbjn63j8r5ph3zrzn8hc)
-<p align="center"><img src="https://media.discordapp.net/attachments/794203525261033513/794591020281102346/3649cc35f88ca4223e6616daae2e9752.gif?width=1152&height=384" /></a>
-
-"主義是在混亂中實現我們目標的最快方法。🖤" 
-<p align="center">
