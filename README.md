@@ -12,7 +12,7 @@
       - 🍙 Luan;                          
       - 📚 14 anos;
       - 💻 Estudante de programação;
-      - 🌍 Gôiania - GYN;
+      - 🌍 Goiás - GYN;
       - 🧪 Working for: "ᱰ".
 ### Se conecte comigo:
 
