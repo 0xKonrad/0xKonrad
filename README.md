@@ -13,7 +13,6 @@
       - 📚 14 anos;
       - 💻 Estudante de programação;
       - 🌍 Goiás - GYN;
-      - 🧪 Working for: "ᱰ".
 ### Se conecte comigo:
 
 <p align="center">
