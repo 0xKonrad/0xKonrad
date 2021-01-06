@@ -9,7 +9,7 @@
 
 ###                                                                    *Biografia*
 
-      - 🍙 Luan;                          
+      - 🍙 Vitor;                          
       - 📚 14 anos;
       - 💻 Estudante de programação;
       - 🌍 Goiás - GYN;
