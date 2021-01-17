@@ -1,11 +1,12 @@
 #                                                                    *1nsecuree* 
 
-<p align="center'> Pleasure, i'm 1nsecure, an ordinary programming student.
-</p>
-<p align="center"> I'm always looking for upgrade my knowledge.
-  
 
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/797156465705353239/797156558684422164/escrevendo1.gif?width=420&height=227"/>
+
+
+<p align="center"> Pleasure, i'm 1nsecure, an ordinary programming student.
+</p>
+
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/793200203124703243/800383588297211904/tenor_3.gif?width=420&height=227"/>
 
 ###                                                                    *Biography*
 
